@@ -24,3 +24,5 @@ Hindi pa beh, may comeback pa.
 tama na anteh
 
 nugagawhen atehku
+
+bat di mo alam HUHUHUHUHU
