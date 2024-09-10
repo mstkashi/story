@@ -16,8 +16,9 @@ A critical prod issue occurred. Everyone looked to Steve for the solution. Steve
 =======
 # Chapter 6: Resolution 
 Steve found the bug, thanks to careful replication. 
->>>>>>> d2a5941 (Added Chapter 6.)
 
 Okay, the end.
 
 Hindi pa beh, may comeback pa.
+
+tama na anteh
