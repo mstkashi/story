@@ -7,4 +7,5 @@ One day, he was invited to join a key project.
 # Chapter 3: The Promotion 
 The boss decided to have a talk with him. 
 
-temp 2 
+# Chapter 4: Leadership 
+Steve was now a team leader. It was harder than he thought. 
