@@ -35,3 +35,5 @@ huyyyyy
 
 ihhhh
 okay legit ito na pinaka final sabi ni enzo eh hehehehe paunahanan na lang c u mga lols
+
+Sinong may issue 
