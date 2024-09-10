@@ -26,3 +26,5 @@ tama na anteh
 nugagawhen atehku
 
 bat di mo alam HUHUHUHUHU
+
+HUHUHUHSDHASKJDHAKJSXIAUEHFAIEJNXIUSEGFHIJEANXUAHFJNAEFIUHANJD iyak hagulgol crying sobbing 
