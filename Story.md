@@ -22,3 +22,5 @@ Okay, the end.
 Hindi pa beh, may comeback pa.
 
 tama na anteh
+
+nugagawhen atehku
