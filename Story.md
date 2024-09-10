@@ -19,3 +19,5 @@ Steve found the bug, thanks to careful replication.
 >>>>>>> d2a5941 (Added Chapter 6.)
 
 Okay, the end.
+
+Hindi pa beh, may comeback pa.
