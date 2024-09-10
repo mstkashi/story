@@ -13,4 +13,9 @@ Steve was now a team leader. It was harder than he thought.
 # Chapter 5: Prod Issue 
 A critical prod issue occurred. Everyone looked to Steve for the solution. 
 
+<<<<<<< HEAD
 temp
+=======
+# Chapter 6: Resolution 
+Steve found the bug, thanks to careful replication. 
+>>>>>>> d2a5941 (Added Chapter 6.)
